@@ -10,6 +10,7 @@ vanakkam da Mapala...
 -[Miska Braun](https://github.com/MiskaB) - Never follow the beaten path, make your own instead, they said...
 -[Insaf](https://github.com/itsmefminsaf) - Remember my name. I am the one who is going to invent the quantum computer
 -[Sara](https://github.com/sara-1129)-This is my first open source contribution ,really excited for the amazing journey ahead.
+-[Tejas Jogdand](https://github.com/Tejas-Jogdand) - Hey floks, I added Sanskrit translation. Sanskrit is an ancient language with a recorded history dating back over 3,500 years. So that when we will invent time travel machine, people from that era can also learn to contribute. `:)`
 -[Harsha](https://github.com/HarshaTalatala)-This is my first open source contribution.
 -[Avital](https://github.com/Avital2025)- A beginner developer who loves solving problems and aims high. Aspiring to create solutions that make a lasting impact.
 -[Faizan Sheikh](https://github.com/faizan929) - Hello everyone, this is my first time contributing to an open source, happy learning, All the best
