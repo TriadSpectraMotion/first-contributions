@@ -4650,6 +4650,9 @@ Jin
 - [Rezy](https://github.com/Rezy-19) - helloo
 - [Thulile Masuku](https://github.com/ThulileMasuku)
 - [Sai Mohaneesh](https://github.com/23241a6749)
+- [Kodenith](https://github.com/Kodenith) - beep boop
+- [Fajar Cheema](https://github.com/fajarCheema) - Hi there, I'm Fajar
+- [Rupesh Sahu](https://github.com/Rynox1612)- Newbie Rupesh
 - [Kodenith](https://github.com/Kodenith) - beep boop、
 asd
 - [Fajar Cheema](https://github.com/fajarCheema) - Hi there, I'm Fajar
@@ -4661,3 +4664,4 @@ asd
 - [BAIM](https://github.com/BAIMOoo) - hello
 - [mulingHT](https://github.com/mulingHT) - 小猫老弟 coke
 - [Rohit] - https://github.com/RohitKale1983
+
